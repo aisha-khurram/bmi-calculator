@@ -1,0 +1,19 @@
+{
+  "name": "ak-02bmicalculator",
+  "version": "1.0.0",
+  "description": "simple bmi calculator with typescript, node js and inquirer",
+  "main": "bmi.js",
+  "type": "module",
+  "bin":"bmi.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "inquirer": "^9.2.16"
+  },
+  "devDependencies": {
+    "@types/inquirer": "^9.0.7"
+  }
+}
